@@ -174,3 +174,11 @@ th {
   background-color: black;
   color: white;
 }
+
+.box {
+  border: 1px solid black;
+  padding: 30px;
+  width: fit-content;
+  margin: 0 auto;
+  font-weight: bold;
+}
