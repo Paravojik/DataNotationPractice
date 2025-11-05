@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    margin: 1cm;
+    border: 2px solid black;
+}
+
+.image-container {
+    text-align: center;
+}
