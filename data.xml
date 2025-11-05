@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<systems>
+  <system id="1">
+    <name>Web Server</name>
+    <type>Infrastructure</type>
+    <language>HTML/CSS</language>
+  </system>
+  <system id="2">
+    <name>Database</name>
+    <type>Backend</type>
+    <language>SQL</language>
+  </system>
+  <system id="3">
+    <name>AI Model</name>
+    <type>Machine Learning</type>
+    <language>Python</language>
+  </system>
+  <system id="4">
+    <name>Blockchain Network</name>
+    <type>Security</type>
+    <language>Solidity</language>
+  </system>
+</systems>

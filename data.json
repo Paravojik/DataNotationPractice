@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Google",
+    "founded": 1998,
+    "specialty": "Cloud Computing"
+  },
+  {
+    "company": "Microsoft",
+    "founded": 1975,
+    "specialty": "Software Development"
+  },
+  {
+    "company": "IBM",
+    "founded": 1911,
+    "specialty": "Artificial Intelligence"
+  },
+  {
+    "company": "Amazon",
+    "founded": 1994,
+    "specialty": "Cloud Services"
+  }
+]
